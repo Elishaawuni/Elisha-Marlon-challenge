@@ -156,7 +156,7 @@ nav > ul {
 }
 
 #hero input[type='submit']:hover {
-  background-color: red;
+  background-color: rgb(206, 25, 25);
   transition: background-color 1s;
 }
 
@@ -191,7 +191,7 @@ nav > ul {
   justify-content: center;
   height: 125px;
   width: 80vw;
-  padding: 5px;
+  padding: 6px;
 }
 
 @media (max-width: 550px) {
